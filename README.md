@@ -79,7 +79,7 @@
 
 ### 全体システム構造
 
-![architecture](./assets/architecture.png)
+![system-architecture](./assets/system-architecture.png)
 
 <br />
 
