@@ -45,6 +45,7 @@
 
 혼자 연습하며 확인하기 어려웠던 부분을 데이터 기반으로 피드백합니다.
 
+- **URL**: [genkun-service](https://genkun.dpdns.org/)
 <br />
 
 ## 💡 주요 기능
@@ -71,7 +72,6 @@
 
 ### Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
 
 <br />
 
